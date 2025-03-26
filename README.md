@@ -6,3 +6,5 @@ Algorithm for finding the shortest solution to the wolf and chick crossing probl
 단 늑대의 수가 병아리보다 많을경우 늑대는 병아리를 잡아먹게 되며, 아무것도 태우지 않은체 땟목을 움직일 수는 없습니다.
 
 이 코드에서 사용된 알고리즘은 탐색 알고리즘 중 깊이 우선 탐색(DFS)입니다.
+
+![image](https://github.com/user-attachments/assets/d0b46d82-171b-407b-adb8-aeb7929482e8)
